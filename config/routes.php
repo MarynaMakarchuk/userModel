@@ -1,5 +1,5 @@
 <?php
 
 return array(
-	'user' => 'user/register'
+	'user/register' => 'user/register'
 	);
